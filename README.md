@@ -4,7 +4,7 @@ One Excel workbook that calculates **ISO 6976** gas properties, **AGA-8 DETAIL**
 
 ![Cover](images/cover.png)
 
-> **Disclosure:** I built this workbook and sell it for **$25** on Gumroad: **[add link]**. This repository holds the documentation, screenshots and validation notes only. The workbook itself is not included.
+> **Disclosure:** I built this workbook and sell it for **$25** on Gumroad: **[[add link](https://ahmadventures070.gumroad.com/l/natzou?_gl=1*rz4uii*_ga*MzYyMDk2ODA1LjE3NjEwMzgxMTM.*_ga_6LJN6D94N6*czE3OTI3NDA0NTgkbzYkZzEkdDE3OTI3NDA0NjQkajU0JGwwJGgw)]**. This repository holds the documentation, screenshots and validation notes only. The workbook itself is not included.
 
 ## What it calculates
 
